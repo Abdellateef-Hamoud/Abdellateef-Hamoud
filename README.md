@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdellateef Hamoud</h1>
-<h3 align="center">A passionate MERN Stack Developer & UI/UX Designer from Egypt</h3>
+<h3 align="center">A MERN Stack Developer from Egypt</h3>
 
 <p align="center">
   <a href="https://github.com/Abdellateef-Hamoud"><img src="https://komarev.com/ghpvc/?username=Abdellateef-Hamoud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
@@ -10,7 +10,7 @@
 - 🎓 **B.Sc. in Computer Science and Artificial Intelligence**  
   *Fayoum University – Expected Graduation: 2025*
 
-- 🌱 Currently learning **Advanced MERN Stack, UI/UX Tools, and System Design**
+- 🌱 Currently learning **Advanced MERN Stack and System Design**
 
 - 💻 All of my projects are available on [My GitHub](https://github.com/Abdellateef-Hamoud)
 
