@@ -8,14 +8,14 @@
 ---
 
 - 🎓 **B.Sc. in Computer Science and Artificial Intelligence**  
-  *Fayoum University – Expected Graduation: 2025*
+  *Fayoum University –  Graduated in 2025*
 
 - 🌱 Currently learning **Advanced MERN Stack and System Design**
 
 - 💻 All of my projects are available on [My GitHub](https://github.com/Abdellateef-Hamoud)
 
 - 🧠 I’m skilled in:  
-  **React.js, Redux, JavaScript, TypeScript, Bootstrap, Node.js, MongoDB, Express.js**
+  **React.js, JavaScript, Bootstrap, Node.js, MongoDB, Express.js**
 
 - 🎨 UI/UX Tools:  
   **Figma, Adobe XD**
@@ -23,7 +23,7 @@
 - 💬 Ask me about:  
   **Frontend Development, REST APIs, Git & GitHub, UI/UX Design, Responsive Web Apps**
 
-- 📫 Contact me at: **af1609@fayoum.edu.eg**
+- 📫 Contact me at: **abdellateef12hamoud@gmail.com**
 
 - 🌍 Visit my [Portfolio Website](https://abdellateef-hamoud.github.io/Abdellateef-Portofolio/)
 
@@ -37,9 +37,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### Backend & DB  
