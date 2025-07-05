@@ -91,5 +91,6 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellateef-hammoud-56451a2bb/)
-[![Portfolio](https://abdellateef-portofolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white)](https://abdellateef-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdellateef-Hamoud)
+
