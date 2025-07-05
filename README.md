@@ -25,7 +25,7 @@
 
 - 📫 Contact me at: **abdellateef12hamoud@gmail.com**
 
-- 🌍 Visit my [Portfolio Website](https://abdellateef-hamoud.github.io/Abdellateef-Portofolio/)
+- 🌍 Visit my [Portfolio Website](https://abdellateef-portofolio.vercel.app/)
 
 - 🧾 View my [LinkedIn Profile](https://www.linkedin.com/in/abdellateef-hammoud-56451a2bb/)
 
@@ -91,5 +91,5 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdellateef-hammoud-56451a2bb/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdellateef-hamoud.github.io/Abdellateef-Portofolio/)
+[![Portfolio](https://abdellateef-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdellateef-Hamoud)
